@@ -11,7 +11,7 @@ quiz = [
     {"question": "Greatttt, refreshing drink huh? go to the apple store!!! When done say yes", "answer": "yes", "hint": "middle"},
     {"question": "Are you happy??? Then go to the D2 exit again, its time to leave. When arrive at the mtr say ok", "answer": "ok", "hint": "middle"},
     {"question": "Go to the place, which is in the middle?", "answer": "central", "hint": "middle"},
-    {"question": "Time to make some steps, Where do you need to go to? Say idk when you arrive at the mtr station central", "answer": "idk", "hint": "Hong Kong in Hong Kong?"},
+    {"question": "Time to make some steps, Where do you need to go to? Say idk when you are at the mtr station central", "answer": "idk", "hint": "Hong Kong in Hong Kong?"},
     {"question": "Where can you go shopping, at the.....", "answer": "mall", "hint": "place"},
     {"question": "Great job! Then walk into the mall. Where do we normally buy coffee?", "answer": "starbucks", "hint": "green and brown!"},
     {"question": "Time to leave? Choose yes or no", "answer": "no", "hint": "choose what you want"},

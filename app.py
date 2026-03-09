@@ -5,7 +5,7 @@ st.title("Birthday quiz with Hints")
 # Questions, answers, and hints
 quiz = [
     {"question": "Get one of our favorite snack!", "answer": "unigiri", "hint": "sushi?"},
-    {"question": "Go to a spot which can bring you to another place whats it called?", "answer": "MTR", "hint": "middle"},
+    {"question": "Go to a spot which can bring you to another place whats it called?", "answer": "mtr", "hint": "middle"},
     {"question": "Great Job, now go to Hysan Place, where is it?", "answer": "CausewayBay", "hint": "middle"},
     {"question": "Correct! Now go to exit D2 and go to the seven eleven we normally go to and buy a drink for yourself I pay. When done say say", "answer": "ok", "hint": "middle"},
     {"question": "Greatttt, refreshing drink huh? go to the apple store!!! When done say yes", "answer": "yes", "hint": "middle"},

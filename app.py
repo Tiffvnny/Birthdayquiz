@@ -9,7 +9,7 @@ quiz = [
     {"question": "Great Job, now go to Hysan Place, where is it?", "answer": "cwb", "hint": "middle"},
     {"question": "Correct! Now go to exit D2 and go to the seven eleven we normally go to and buy a drink for yourself I pay. When done say ok", "answer": "ok", "hint": "middle"},
     {"question": "Greatttt, refreshing drink huh? go to the apple store!!! When done say yes", "answer": "yes", "hint": "middle"},
-    {"question": "Are you happy??? Then go to the D2 exit again, its time to leave. When done say ok", "answer": "ok", "hint": "middle"},
+    {"question": "Are you happy??? Then go to the D2 exit again, its time to leave. When arrive at the mtr say ok", "answer": "ok", "hint": "middle"},
     {"question": "Go to the place, which is in the middle?", "answer": "central", "hint": "middle"},
     {"question": "Time to make some steps, Where do you need to go to? Say idk when you arrive at the mtr station central", "answer": "idk", "hint": "Hong Kong in Hong Kong?"},
     {"question": "Where can you go shopping, at the.....", "answer": "mall", "hint": "place"},

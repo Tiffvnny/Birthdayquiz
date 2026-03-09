@@ -19,7 +19,7 @@ quiz = [
     {"question": "Well in this case, take a coffee break. You deserve it! Go to starbucks and buy your favorite drink, I pay! Say yes when you are DONE with drinking coffee", "answer": "yes", "hint": "Time to walk"},
     {"question": "Time to go up where I normally go to the toilet. Remember? Choose yes or no when you are NEAR the toilet when done say yes!", "answer": "yes", "hint": "Time to walk"},
     {"question": "Hehehehe joke!!! Go to the apple store, you need to return your gift is that ok for you? say no or yes?", "answer": "yes", "hint": "you better say yes"},
-    {"question": "you said yes because otherwise you can not see this. Then it is time to go back to apple and I will give you further signals say yeah when you are DONE", "answer": "yeah", "hint": "read carefully"},
+    {"question": "you said yes because otherwise you can not see this. Then it is time to go back to apple and I will give you to return your gift say yeah when you are DONE", "answer": "yeah", "hint": "read carefully"},
     {"question": "It is time to go back home! hope you had a great tourrrr and workout hihihi. happy bday <3 and hope you enjoyed it hihihi. say ok", "answer": "ok", "hint": "read carefully"},
 ]
 

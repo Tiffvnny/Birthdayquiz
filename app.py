@@ -10,17 +10,13 @@ quiz = [
     {"question": "Correct! Now go to exit D2 and go to the seven eleven we normally go to and buy a drink for yourself I pay. When done say ok", "answer": "ok", "hint": "middle"},
     {"question": "Greatttt, refreshing drink huh? go to the apple store!!! When done say yes", "answer": "yes", "hint": "middle"},
     {"question": "Are you happy??? Then go to the D2 exit again, its time to leave. When arrive at the mtr say ok", "answer": "ok", "hint": "middle"},
-    {"question": "Go to the place, which is in the middle?", "answer": "central", "hint": "middle"},
-    {"question": "Time to make some steps, Where do you need to go to? Say idk when you are at the mtr station central", "answer": "idk", "hint": "Hong Kong in Hong Kong?"},
-    {"question": "Where can you go shopping, at the.....", "answer": "mall", "hint": "place"},
-    {"question": "Great job! Then walk into the mall. Where do we normally buy coffee?", "answer": "starbucks", "hint": "green and brown!"},
+    {"question": "Time to make some steps, we are not leaving CWB, Where do you need to go to? Guess and if you don't know say idk", "answer": "idk", "hint": "Hong Kong in Hong Kong?"},
+    {"question": "time to have some other food!! There are some great spots here sooo lets gooo. Answer ok and see where you need to go!.", "answer": "ok", "hint": "place"},
+    {"question": "Great job! Time to have ramen!! The restaurant is called ramenya shima. When done with food say ok", "answer": "ok", "hint": "green and brown!"},
     {"question": "Time to leave? Choose yes or no", "answer": "no", "hint": "choose what you want"},
     {"question": "Eventhough it is your birthday you can't decide!!, what would you say in this case? hint: poop", "answer": "shit", "hint": "poop"},
-    {"question": "Well in this case, take a coffee break. You deserve it! Go to starbucks and buy your favorite drink, I pay! Say yes when you are DONE with drinking coffee", "answer": "yes", "hint": "Time to walk"},
-    {"question": "Time to go up where I normally go to the toilet. Remember? Choose yes or no when you are NEAR the toilet when done say yes!", "answer": "yes", "hint": "Time to walk"},
     {"question": "Hehehehe joke!!! Go to the apple store, you need to return your gift is that ok for you? say no or yes?", "answer": "yes", "hint": "you better say yes"},
-    {"question": "you said yes because otherwise you can not see this. Then it is time to go back to apple and I will give you to return your gift say yeah when you are DONE", "answer": "yeah", "hint": "read carefully"},
-    {"question": "It is time to go back home! hope you had a great tourrrr and workout hihihi. happy bday <3 and hope you enjoyed it hihihi. say ok", "answer": "ok", "hint": "read carefully"},
+    {"question": "you said yes because otherwise you can not see this. But instead, it is time to go back home! hope you had a great tourrrr and workout hihihi. happy bday <3 and hope you enjoyed it hihihi. say ok", "answer": "ok", "hint": "read carefully"},
 ]
 
 # Track current step

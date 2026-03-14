@@ -16,7 +16,7 @@ quiz = [
     {"question": "Time to leave? Choose yes or no", "answer": "yes", "hint": "choose what you want"},
     {"question": "Eventhough it is your birthday you can't decide!!, what would you say in this case? hint: poop", "answer": "shit", "hint": "poop"},
     {"question": "Hehehehe joke!!! Go to the apple store, you need to return your gift is that ok for you? say no or yes?", "answer": "yes", "hint": "you better say yes"},
-    {"question": "you said yes because otherwise you can not see this. But instead, it is time to go back home! hope you had a great tourrrr and workout hihihi. happy bday <3 and hope you enjoyed it hihihi. say ok", "answer": "ok", "hint": "read carefully"},
+    {"question": "you said yes because otherwise you can not see this. Go return it cuz I am broke. Just kidding. But instead, it is time to go back home! hope you had a great tourrrr and workout hihihi. happy bday <3 and hope you enjoyed it hihihi. say ok", "answer": "ok", "hint": "read carefully"},
 ]
 
 # Track current step

@@ -13,7 +13,7 @@ quiz = [
     {"question": "Time to make some steps, we are not leaving CWB, Where do you need to go to? Guess and if you don't know say idk", "answer": "idk", "hint": "Hong Kong in Hong Kong?"},
     {"question": "time to have some other food!! There are some great spots here sooo lets gooo. Answer ok and see where you need to go!.", "answer": "ok", "hint": "place"},
     {"question": "Great job! Time to have ramen!! The restaurant is called ramenya shima. When done with food say ok", "answer": "ok", "hint": "green and brown!"},
-    {"question": "Time to leave? Choose yes or no", "answer": "no", "hint": "choose what you want"},
+    {"question": "Time to leave? Choose yes or no", "answer": "yes", "hint": "choose what you want"},
     {"question": "Eventhough it is your birthday you can't decide!!, what would you say in this case? hint: poop", "answer": "shit", "hint": "poop"},
     {"question": "Hehehehe joke!!! Go to the apple store, you need to return your gift is that ok for you? say no or yes?", "answer": "yes", "hint": "you better say yes"},
     {"question": "you said yes because otherwise you can not see this. But instead, it is time to go back home! hope you had a great tourrrr and workout hihihi. happy bday <3 and hope you enjoyed it hihihi. say ok", "answer": "ok", "hint": "read carefully"},
